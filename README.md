@@ -1,8 +1,6 @@
 # LoveLocal-Campus-drive
 BuildHer Interview Questions
-Interview questions for BuildHer Campaign.
-The interns can choose the language of their choice 
-They need to pick one question from easy, one from medium and one from hard. The questions I have picked are listed below:
+Interview questions for BuildHer Campaign. I have choosen the language Python 3. The questions I have picked are listed below:
 
 Easy 3
 Given an integer numRows, return the first numRows of Pascal's triangle.
